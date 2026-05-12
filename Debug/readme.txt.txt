@@ -1,0 +1,1 @@
+To install this program, right click the setup1.msi and choose INSTALL.
